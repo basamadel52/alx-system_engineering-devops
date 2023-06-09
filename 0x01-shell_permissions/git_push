@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo input
+
+read var
+
+git add .
+git commit -m '${var}'
+git push
+
