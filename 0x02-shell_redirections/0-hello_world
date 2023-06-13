@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Hello, World | echo pep 1> nice.txt  
+print Hello, World 1> file.txt
