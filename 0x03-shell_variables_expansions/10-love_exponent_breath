@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv BREATH=$BREATH+$LOVE
+echo $((((($BREATH*4))$LOVE*3))
