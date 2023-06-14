@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((((($BREATH*4))$LOVE*3))
+echo $((`echo $PATH | grep -o ":/" | wc -l`+ 1))
